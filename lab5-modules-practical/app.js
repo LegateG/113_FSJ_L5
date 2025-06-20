@@ -1,5 +1,6 @@
 import multiply,{ add, subtract } from './mathModule.js';
 import { toUpperCase, toLowerCase } from './stringModule.js';
+import { findMax, reverseArray } from './arrayModule.js';
  
 // Calling the functions and logging results
 console.log('Multiply:',multiply(5,6)); // Testing the default export
