@@ -1,6 +1,6 @@
 export function toUpperCase(str) {
-    return word.toUpperCase();
+    return str.toUpperCase();
 }
 export function toLowerCase(str) {
-    return word.toLowerCase(str);
+    return str.toLowerCase(str);
 }
