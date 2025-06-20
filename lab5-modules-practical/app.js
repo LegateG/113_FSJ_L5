@@ -5,3 +5,5 @@ import { toUpperCase, toLowerCase } from './stringModule.js';
 console.log('Multiply:',multiply(5,6)); // Testing the default export
 console.log('Add: ', add(5, 3));  // Testing add function
 console.log('Uppercase: ', toUpperCase('hello'));  // Testing string manipulation
+console.log('Max: ', findMax([1, 2, 3, 4, 5]));  // Testind findMax
+console.log('Reversed: ', reverseArray([1, 2, 3]));  // Testing reverseArray
